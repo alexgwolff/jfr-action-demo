@@ -1,4 +1,4 @@
-name: Java CI
+name: demo CI
 on: [push]
 jobs:
   # Java
