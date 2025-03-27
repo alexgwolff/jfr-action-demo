@@ -18,7 +18,7 @@ All the demos are stored in the `./demo` directory. You can use them with the ac
 7. [jobcacher demo](./demo/jobcacher): It teaches you how to cache the pipeline dependencies.
 8. [remote agent demo](./demo/remote-agent): It teaches you how to trigger the building in the remote agents.
 
-## How you can access Jenkinsfile-runner actions in your project?
+## How you can access Jenkinsfile-runner actions in your projtsestsect?
 Reference these actions in your workflow definition.
 1. jenkinsci/jfr-setup-action@master
 2. jenkinsci/jfr-plugin-installation-action@master
